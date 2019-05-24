@@ -9,11 +9,11 @@ import threading
 from sys import platform
 
 print
-print " ____  _____    _   _   _ _____ _   _ "
-print "|  _ \| ____|  / \ | | | |_   _| | | |"
-print "| | | |  _|   / _ \| | | | | | | |_| |"
-print "| |_| | |___ / ___ \ |_| | | | |  _  |"
-print "|____/|_____/_/   \_\___/  |_| |_| |_|"
+print " ____          _         _   _   _ "
+print "|  _ \  ___   / \  _   _| |_| | | |"
+print "| | | |/ _ \ / _ \| | | | __| |_| |"
+print "| |_| |  __// ___ \ |_| | |_|  _  |"
+print "|____/ \___/_/   \_\__,_|\__|_| |_|"
 print
 print "Author : R00T-H4WK"
 print "Country: Indonesian"
