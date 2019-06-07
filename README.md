@@ -19,24 +19,24 @@
 
 # for help use
  
- * $ python2 deauth.py -h
- *  ____          _         _   _   _
- * |  _ \  ___   / \  _   _| |_| | | |
- * | | | |/ _ \ / _ \| | | | __| |_| |
- * | |_| |  __// ___ \ |_| | |_|  _  |
- * |____/ \___/_/   \_\__,_|\__|_| |_|
+      $ python2 deauth.py -h
+           ____          _         _   _   _
+          |  _ \  ___   / \  _   _| |_| | | |
+          | | | |/ _ \ / _ \| | | | __| |_| |
+          | |_| |  __// ___ \ |_| | |_|  _  |
+          |____/ \___/_/   \_\__,_|\__|_| |_|
 
- * Author : R00T-H4WK
- * Country: Indonesian
- * usage: deauth.py [-h] -i IFACE [-m MONITOR]
+          Author : R00T-H4WK
+          Country: Indonesian
+          usage: deauth.py [-h] -i IFACE [-m MONITOR]
 
- * deauth.py - Perform a Deauth WIFI Attack - python deauth.py -i wlan0 -m 1
+          deauth.py - Perform a Deauth WIFI Attack - python deauth.py -i wlan0 -m 1
 
- * optional arguments:
- * -h, --help            show this help message and exit
- * -i IFACE, --interface IFACE
- *                       WIFI Interface
- * -m MONITOR, --monitormode MONITOR
- *                       Activate Monitor Mode
- *
+          optional arguments:
+           -h, --help            show this help message and exit
+           -i IFACE, --interface IFACE
+                       WIFI Interface
+           -m MONITOR, --monitormode MONITOR
+                         Activate Monitor Mode
+ 
 
